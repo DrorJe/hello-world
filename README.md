@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-alert("wow");
+la la la
